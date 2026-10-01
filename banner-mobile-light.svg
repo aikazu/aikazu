@@ -1,0 +1,33 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 480 440" width="480" height="440" role="img" aria-labelledby="title description">
+  <title id="title">Iqbal Attila</title>
+  <desc id="description">Intelligence Integrity Initiative. Secure by design. Shipped with intent. Available. Indonesia. Remote and onsite.</desc>
+  <rect width="480" height="440" fill="#FAFAFA"/>
+  <rect width="480" height="2" fill="#8A6F2D"/>
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="16" letter-spacing="1.6" fill="#8A6F2D">
+    <text x="28" y="45">INTELLIGENCE</text>
+    <text x="28" y="66">INTEGRITY INITIATIVE</text>
+  </g>
+  <g transform="translate(376 24) scale(.38)" fill="none" stroke="#8A6F2D">
+    <rect x="30" y="30" width="140" height="140" stroke-width="1.5"/>
+    <path d="M20 30H30V20 M170 20V30H180 M180 170H170V180 M30 180V170H20" stroke-width="1"/>
+    <path d="M54 68H78 M66 68V132 M54 132H78" stroke="#1A1A1A" stroke-width="6"/>
+    <path d="M100 132L117 68L134 132 M107 108H127" stroke="#1A1A1A" stroke-width="3"/>
+  </g>
+  <text x="24" y="154" font-family="Fraunces, Georgia, serif" font-size="65" letter-spacing="-2.5" fill="#1A1A1A">Iqbal Attila</text>
+  <g font-family="Fraunces, Georgia, serif" font-size="28" fill="#1A1A1A">
+    <text x="28" y="203">Secure <tspan font-style="italic" fill="#8A6F2D">by design.</tspan></text>
+    <text x="28" y="239">Shipped with intent.</text>
+  </g>
+  <path d="M28 277H452" stroke="#D9D7D0"/>
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="15" letter-spacing=".8" fill="#615E57">
+    <text x="28" y="311">STATUS</text>
+    <text x="28" y="349">BASE</text>
+    <text x="28" y="387">WORK MODE</text>
+  </g>
+  <g font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="24" fill="#1A1A1A">
+    <text x="192" y="311" fill="#287055">Available</text>
+    <text x="192" y="349">Indonesia</text>
+    <text x="192" y="387">Remote / onsite</text>
+  </g>
+  <text x="28" y="423" font-family="'JetBrains Mono', Consolas, monospace" font-size="15" fill="#615E57">@aikazu</text>
+</svg>

@@ -1,65 +1,29 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 320" width="1280" height="320" role="img" aria-label="Iqbal Attila — Intelligence Integrity Initiative">
-  <defs>
-    <linearGradient id="goldFade" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0%" stop-color="#C9A352" stop-opacity="1"/>
-      <stop offset="60%" stop-color="#C9A352" stop-opacity="0.4"/>
-      <stop offset="100%" stop-color="#C9A352" stop-opacity="0"/>
-    </linearGradient>
-    <radialGradient id="ambient" cx="20%" cy="0%" r="50%">
-      <stop offset="0%" stop-color="#C9A352" stop-opacity="0.08"/>
-      <stop offset="100%" stop-color="#C9A352" stop-opacity="0"/>
-    </radialGradient>
-  </defs>
-
-  <!-- canvas -->
-  <rect width="1280" height="320" fill="#0A0A0A"/>
-  <rect width="1280" height="320" fill="url(#ambient)"/>
-
-  <!-- top gold line (signature) -->
-  <rect x="0" y="0" width="1280" height="2" fill="#C9A352"/>
-
-  <!-- side rule -->
-  <rect x="64" y="48" width="2" height="224" fill="url(#goldFade)"/>
-
-  <!-- eyebrow label -->
-  <text x="96" y="80" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="13" letter-spacing="3" fill="#C9A352">INTELLIGENCE INTEGRITY INITIATIVE</text>
-
-  <!-- display name -->
-  <text x="96" y="160" font-family="Georgia, 'Times New Roman', serif" font-size="76" font-weight="400" fill="#F0EDE7" letter-spacing="-1">IQBAL ATTILA</text>
-
-  <!-- italic tagline with gold accent -->
-  <text x="96" y="208" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-style="italic" font-weight="300" fill="#A39F97">Secure by design. Shipped with <tspan fill="#C9A352">intent</tspan>.</text>
-
-  <!-- pillars row -->
-  <text x="96" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2" fill="#A39F97">CYBERSECURITY ENGINEER</text>
-  <text x="306" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#3A3A3A">/</text>
-  <text x="324" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2" fill="#A39F97">SOFTWARE ENGINEER</text>
-  <text x="490" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#3A3A3A">/</text>
-  <text x="508" y="266" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" letter-spacing="2" fill="#A39F97">PRESALES ENGINEER</text>
-
-  <!-- right-side spec block -->
-  <g transform="translate(880, 64)">
-    <rect x="0" y="0" width="320" height="192" fill="#121212" stroke="#2A2A2A" stroke-width="1"/>
-    <rect x="0" y="0" width="320" height="2" fill="#C9A352"/>
-
-    <text x="20" y="32" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="10" letter-spacing="2" fill="#6E6A62">SPEC SHEET</text>
-
-    <line x1="20" y1="48" x2="300" y2="48" stroke="#2A2A2A"/>
-
-    <text x="20" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6E6A62">STATUS</text>
-    <text x="120" y="76" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6CC3A6">AVAILABLE</text>
-
-    <line x1="20" y1="96" x2="300" y2="96" stroke="#1F1F1F"/>
-
-    <text x="20" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6E6A62">BASE</text>
-    <text x="120" y="120" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#F0EDE7">INDONESIA</text>
-
-    <line x1="20" y1="140" x2="300" y2="140" stroke="#1F1F1F"/>
-
-    <text x="20" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#6E6A62">MODE</text>
-    <text x="120" y="164" font-family="ui-monospace, SFMono-Regular, Menlo, monospace" font-size="11" fill="#F0EDE7">REMOTE / ONSITE</text>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 340" width="960" height="340" role="img" aria-labelledby="title description">
+  <title id="title">Iqbal Attila</title>
+  <desc id="description">Intelligence Integrity Initiative. Secure by design. Shipped with intent. Available. Indonesia. Remote and onsite.</desc>
+  <rect width="960" height="340" fill="#0A0A0A"/>
+  <rect width="960" height="2" fill="#C9A352"/>
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="12" letter-spacing="1.6" fill="#C9A352">
+    <text x="48" y="53">INTELLIGENCE INTEGRITY INITIATIVE</text>
+    <text x="912" y="53" text-anchor="end" letter-spacing="0.5" fill="#A39F97">@aikazu</text>
   </g>
-
-  <!-- bottom hairline -->
-  <rect x="0" y="318" width="1280" height="1" fill="#2A2A2A"/>
+  <text x="44" y="158" font-family="Fraunces, Georgia, serif" font-size="86" letter-spacing="-3" fill="#F0EDE7">Iqbal Attila</text>
+  <text x="48" y="211" font-family="Fraunces, Georgia, serif" font-size="25" fill="#F0EDE7">Secure <tspan font-style="italic" fill="#C9A352">by design.</tspan> Shipped with intent.</text>
+  <g transform="translate(734 78) scale(.9)" fill="none" stroke="#C9A352">
+    <rect x="30" y="30" width="140" height="140" stroke-width="1.5"/>
+    <path d="M20 30H30V20 M170 20V30H180 M180 170H170V180 M30 180V170H20" stroke-width="1"/>
+    <path d="M54 68H78 M66 68V132 M54 132H78" stroke="#C9A352" stroke-width="6"/>
+    <path d="M100 132L117 68L134 132 M107 108H127" stroke="#C9A352" stroke-width="3"/>
+  </g>
+  <path d="M48 257H912" stroke="#2A2A2A"/>
+  <g font-family="'JetBrains Mono', Consolas, monospace" font-size="11" letter-spacing="1" fill="#A39F97">
+    <text x="48" y="284">STATUS</text>
+    <text x="336" y="284">BASE</text>
+    <text x="624" y="284">WORK MODE</text>
+  </g>
+  <g font-family="Inter, -apple-system, 'Segoe UI', sans-serif" font-size="17" fill="#F0EDE7">
+    <text x="48" y="309" fill="#6CC3A6">Available</text>
+    <text x="336" y="309">Indonesia</text>
+    <text x="624" y="309">Remote / onsite</text>
+  </g>
 </svg>
